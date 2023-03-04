@@ -19,3 +19,5 @@ Model Evaluation: The performance of the machine learning models was evaluated u
 It was recorded that several machine learning and deep learning algorithms have given high and similar precision and accuracy. The best result which we achieved was about 100% accuracy. The Machine Learning technique like Random Forest and Decision Tree gavee us the accuracy 1.000 as well as the same result was achieved by XGBoost, Autoencoder and SVM. Meanwhile the Multilayer Perceptron achieved the Accuracy of 0.968.
 
 Overall, the project successfully demonstrated the effectiveness of machine learning algorithms in detecting and classifying phishing websites with high accuracy. The results achieved in this project have the potential to aid in the development of better anti-phishing tools and technologies.
+
+#### NOTE : This repository contains the PDF and ipynb file of the project.

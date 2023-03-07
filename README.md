@@ -13,7 +13,7 @@ Feature Extraction: The project extracted several features from the website page
 
 Model Selection: The project experimented with several machine learning algorithms, including Decision Tree, Random Forest, and Logistic Regression, to identify the best-performing model.
 
-Model Evaluation: The performance of the machine learning models was evaluated using various metrics such as accuracy, precision, recall, and F1-score. The results showed that the Random Forest model achieved the highest accuracy of 98%.
+Model Evaluation: The performance of the machine learning models was evaluated using various metrics such as accuracy, precision, recall, and F1-score. The results showed that the Random Forest model achieved the highest accuracy of 100%.
 
 #### Result 
 It was recorded that several machine learning and deep learning algorithms have given high and similar precision and accuracy. The best result which we achieved was about 100% accuracy. The Machine Learning technique like Random Forest and Decision Tree gavee us the accuracy 1.000 as well as the same result was achieved by XGBoost, Autoencoder and SVM. Meanwhile the Multilayer Perceptron achieved the Accuracy of 0.968.

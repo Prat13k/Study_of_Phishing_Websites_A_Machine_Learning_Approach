@@ -7,7 +7,7 @@ In this repository you will be finding out about the project Study of phishing w
 In this project we used and applied several machine learning and deep learning algorithm to determine whetehr the website is a phihsing website or not. The data of those websites was gathered from kaggle.com. After applying several machine learning and deep learning algorithms. We determined the best results that which one of the algorithm provides best result for the detectiion of the phishing websites.
 
 #### About Data
-Data Collection: The project first collected a dataset of phishing and legitimate websites from various sources. The dataset was then pre-processed to extract relevant features from the website pages.
+Data Collection: In this project we first collected a dataset of phishing and legitimate websites from various sources. The dataset was then pre-processed to extract relevant features from the website pages.
 
 Feature Extraction: The project extracted several features from the website pages, including the website URL, domain age, SSL certificate, webpage content, and more.
 

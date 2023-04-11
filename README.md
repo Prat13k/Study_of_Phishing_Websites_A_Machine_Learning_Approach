@@ -20,4 +20,4 @@ It was recorded that several machine learning and deep learning algorithms have 
 
 Overall, the project successfully demonstrated the effectiveness of machine learning algorithms in detecting and classifying phishing websites with high accuracy. The results achieved in this project have the potential to aid in the development of better anti-phishing tools and technologies.
 
-#### NOTE : This repository contains the PDF and ipynb file of the project.
+########### NOTE : This repository contains the PDF and ipynb file of the project.

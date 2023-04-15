@@ -1,7 +1,7 @@
 # Study of phishing websites a machine learning appraoch
 
 #### Problem Statement
-In this repository you will be finding out about the project Study of phishing website a Machine Learning Approach in which the Detection and classification of phishing website were performed by using several machine learning and deep learning approaches.
+In this repository you will be finding out about the project Study of phishing website a Machine Learning Approach in which the detection and classification of phishing website were performed by using several machine learning and deep learning approaches.
 
 #### Solution
 In this project we used and applied several machine learning and deep learning algorithm to determine whetehr the website is a phihsing website or not. The data of those websites was gathered from kaggle.com. After applying several machine learning and deep learning algorithms. We determined the best results that which one of the algorithm provides best result for the detectiion of the phishing websites.
@@ -20,4 +20,4 @@ It was recorded that several machine learning and deep learning algorithms have 
 
 Overall, the project successfully demonstrated the effectiveness of machine learning algorithms in detecting and classifying phishing websites with high accuracy. The results achieved in this project have the potential to aid in the development of better anti-phishing tools and technologies.
 
-###### NOTE : This repository contains the PDF and ipynb file of the project.
+###### NOTE : This repository contains the PDF and ipynb files of the project.

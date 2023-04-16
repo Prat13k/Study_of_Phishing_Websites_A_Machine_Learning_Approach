@@ -1,4 +1,4 @@
-# Study of phishing websites a machine learning appraoch
+# Study of phishing websites : A machine learning appraoch
 
 #### Problem Statement
 In this repository you will be finding out about the project Study of phishing website a Machine Learning Approach in which the detection and classification of phishing website were performed by using several machine learning and deep learning approaches.

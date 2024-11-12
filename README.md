@@ -1,4 +1,4 @@
-<p align = "center"> # Study of Phishing Websites: A Machine Learning Approach. </p>
+<h1><p align = "center"> Study of Phishing Websites: A Machine Learning Approach. </p></h1>
 
 <p align = "justify" >This project is focused on detecting phishing websites through the application of machine learning techniques. Phishing, a prevalent cybersecurity threat, involves malicious websites designed to mimic legitimate ones to steal sensitive user information. To combat this, the project employs various machine learning models that analyze multiple features of websites and classify them as either phishing or legitimate. The objective is to create a reliable, data-driven system that can automatically assess a website's credibility based on its structural and content characteristics.</p>
 
